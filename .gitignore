@@ -1,2 +1,11 @@
 
 springbootjsp/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/springbootjsp/lib/

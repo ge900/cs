@@ -24,6 +24,7 @@ import java.util.Map;
 @Controller
 public class Controllered {
 
+    //测试git1116
     @RequestMapping("/hello")
     public String helloJsp(Map<String,Object> map, HttpServletRequest request){
        // System.out.println("HelloController.helloJsp().hello="+"springboot--1");
